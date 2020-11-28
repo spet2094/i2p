@@ -356,7 +356,7 @@ The practical can then be [downloaded from GitHub](https://github.com/jreades/i2
 - Watch: [Linking Data](https://web.microsoftstream.com/video/05759776-10b9-4476-9949-c7c0fbeef298) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/8.1-Linking_Data.md))
 - Watch: [Linking Spatial Data](https://web.microsoftstream.com/video/4bf27eaa-90d8-4628-81ba-e673816e691f) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/8.2-Linking_Spatial_Data.md))
 - Watch: [Grouping Data](https://web.microsoftstream.com/video/7f8df345-7339-466c-be60-a65be1ad6b57) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/8.3-Grouping_Data.md))
-- On Telling Stories with Data
+- Watch: [Data Visualisation](https://web.microsoftstream.com/video/4cc8c5a2-5881-4342-adda-32b39a989d90) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/8.4-Visualising_Data.md))
 
 #### Readings
 
