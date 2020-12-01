@@ -369,13 +369,13 @@ The practical can then be [downloaded from GitHub](https://github.com/jreades/i2
 
 #### Quiz!
 
-- Complete the short Moodle quiz associated with this week's activities.
+- Complete the [short Moodle quiz](https://moodle.ucl.ac.uk/mod/quiz/view.php?id=2579101) associated with this week's activities.
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/01009be0-aada-45cc-b8b3-76a4c16f2ceb))
+- Discussion of **Readings** ([Recording](https://web.microsoftstream.com/video/f72532ef-e4ea-45cc-8532-8d895a398c3b))
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/6e5c59eb-5a79-445b-b636-90243a685221))
 
 ### Practical
 
