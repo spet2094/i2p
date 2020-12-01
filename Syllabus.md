@@ -387,16 +387,15 @@ The practical can then be downloaded from GitHub.
 
 #### Lectures
 
-- Normalisation & Standardisation
-- Transformations 
-- PySAL
-- Aggregation & Joins
+- The Data Space
+- Transformations
+- Classifications 
 
 #### Readings
 
 - Bunday, B.D. (????) A Final Tale or You Can Prove Anything with Figures [URL](https://www.ucl.ac.uk/~ucahhwi/AFinalTale.pdf)
 - Harris, R. (2019), The Certain Uncertainty of University Rankings [URL](https://rpubs.com/profrichharris/uni-rankings)
-- Cima, R. (2014) The Most and Least Diverse Cities in America, Priceonomics [URL](https://priceonomics.com/the-most-and-least-diverse-cities-in-america/) [But need to provide PDF as figures now missing]
+- Cima, R. (2014) The Most and Least Diverse Cities in America, Priceonomics [URL](https://priceonomics.com/the-most-and-least-diverse-cities-in-america/) ([PDF with Figures](https://github.com/jreades/i2p/blob/master/docs/The_Least_Segregated_Cities_in_America.pdf))
 
 #### Contribution
 
