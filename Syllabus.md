@@ -361,7 +361,7 @@ The practical can then be [downloaded from GitHub](https://github.com/jreades/i2
 #### Readings
 
 - [@dignazio:2020, chap. 3] On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints in Data Feminism; [Pre-review URL](https://bookbook.pubpub.org/pub/8tjbs2x5)
-- Badger, E. and Bui, Q. and Gebeloff, R. (2019) Neighborhood Is Mostly Black. The Home Buyers Are Mostly White. New York Times [URL](https://www.nytimes.com/interactive/2019/04/27/upshot/diversity-housing-maps-raleigh-gentrification.html)
+- [@badger:2019]) Neighborhood Is Mostly Black. The Home Buyers Are Mostly White. [URL](https://www.nytimes.com/interactive/2019/04/27/upshot/diversity-housing-maps-raleigh-gentrification.html)
 
 #### Contribution
 
@@ -393,9 +393,10 @@ The practical can then be downloaded from GitHub.
 
 #### Readings
 
-- Bunday, B.D. (????) A Final Tale or You Can Prove Anything with Figures [URL](https://www.ucl.ac.uk/~ucahhwi/AFinalTale.pdf)
-- Harris, R. (2019), The Certain Uncertainty of University Rankings [URL](https://rpubs.com/profrichharris/uni-rankings)
-- Cima, R. (2014) The Most and Least Diverse Cities in America, Priceonomics [URL](https://priceonomics.com/the-most-and-least-diverse-cities-in-america/) ([PDF with Figures](https://github.com/jreades/i2p/blob/master/docs/The_Least_Segregated_Cities_in_America.pdf))
+- [@Bunday:0000] A Final Tale or You Can Prove Anything with Figures [URL](https://www.ucl.ac.uk/~ucahhwi/AFinalTale.pdf)
+- [@Harris:2019] The Certain Uncertainty of University Rankings [URL](https://rpubs.com/profrichharris/uni-rankings)
+- [@Cima:2014] The Most and Least Diverse Cities in America, Priceonomics [URL](https://priceonomics.com/the-most-and-least-diverse-cities-in-america/) ([PDF with Figures](https://github.com/jreades/i2p/blob/master/docs/The_Least_Segregated_Cities_in_America.pdf))
+- [@lu:2013] Are statisticians cold-blooded bosses? a new perspective on the ‘old’ concept of statistical population [DOI](https://doi.org/10.1111/j.1467-9639.2012.00524.x)
 
 #### Contribution
 
