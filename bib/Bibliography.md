@@ -9,6 +9,11 @@ Arribas-Bel, D., and J. Reades. 2018. “Geography and Computers: Past,
 Present, and Future.” *Geography Compass* 0 (0): e12403.
 <https://doi.org/10.1111/gec3.12403>.
 
+Badger, E., Q. Bui, and R. Gebeloff. 2019. “Neighborhood Is Mostly
+Black. The Home Buyers Are Mostly White. New York Times.” New York
+Times.
+<https://www.nytimes.com/interactive/2019/04/27/upshot/diversity-housing-maps-raleigh-gentrification.html>.
+
 Barron, K., E. Kung, and D. Proserpio. 2018. “The Sharing Economy and
 Housing Affordability: Evidence from Airbnb.”
 <https://static1.squarespace.com/static/5bb2d447a9ab951efbf6d10a/t/5bea6881562fa7934045a3f0/1542088837594/The+Sharing+Economy+and+Housing+Affordability.pdf>.
@@ -18,6 +23,9 @@ Theunissen. 2018. “Teaching Ethics When Working with Geocoded Data: A
 Novel Experiential Learning Approach.” *Journal of Geography in Higher
 Education* 42 (2): 293–310.
 <https://doi.org/https://doi.org/10.1080/03098265.2018.1436534>.
+
+Bunday, B. D. n.d. “A Final Tale or You Can Prove Anything with
+Figures.” <https://www.ucl.ac.uk/~ucahhwi/AFinalTale.pdf>.
 
 Burton, I. 1963. “The Quantitative Revolution and Theoretical
 Geography.” *The Canadian Geographer/Le Géographe Canadien* 7 (4):
@@ -32,6 +40,10 @@ Cheng, M., and X. Jin. 2018. “What Do Airbnb Users Care About? An
 Analysis of Online Review Comment.” *International Journal of
 Hospitality Management,* 76 (A): 58–70.
 <https://doi.org/10.1016/j.ijhm.2018.04.004>.
+
+Cima, R. n.d. “The Most and Least Diverse Cities in America.”
+Priceonomics.
+<https://priceonomics.com/the-most-and-least-diverse-cities-in-america/>.
 
 Cocola-Gant, A., and A. Gago. 2019. “Airbnb, Buy-to-Let Investment and
 Tourism-Driven Displacement: A Case Study in Lisbon.” *Environment and
@@ -102,9 +114,12 @@ Comparative Performance Expectations.” *International Journal of
 Hospitality Management* 64: 1–10.
 <https://doi.org/10.1016/j.ijhm.2017.02.003>.
 
-Harris, J. 2018. “Profiteers make a killing on Airbnb – and erode
-communities.”
+Harris, J. 2018. “Profiteers Make a Killing on Airbnb - and Erode
+Communities.” The Guardian.
 <https://www.theguardian.com/commentisfree/2018/feb/12/profiteers-killing-airbnb-erode-communities>.
+
+Harris, R. n.d. “The Certain Uncertainty of University Rankings.” RPubs.
+<https://rpubs.com/profrichharris/uni-rankings>.
 
 Horn, K., and M. Merante. 2017. “Is Home Sharing Driving up Rents?
 Evidence from Airbnb in Boston.” *Journal of Housing Economics* 38:
@@ -126,6 +141,10 @@ Affordable Housing Crisis: Analysis and Policy Recommendations.”
 *Harvard Law & Policy Review* 10 (1): 229–54.
 <https://doi.org/https://heinonline.org/HOL/Page?handle=hein.journals/harlpolrv10&div=13&g_sent=1>.
 
+Lu, Yonggang, and Kevin SS Henning. 2013. “Are Statisticians
+Cold-Blooded Bosses? A New Perspective on the ‘Old’concept of
+Statistical Population.” *Teaching Statistics* 35 (1): 66–71.
+
 Lutz, C., and G. Newlands. 2018. “Consumer Segmentation Within the
 Sharing Economy: The Case of Airbnb.” *Journal of Business Research* 88:
 187–96. <https://doi.org/10.1016/j.jbusres.2018.03.019>.
@@ -141,10 +160,6 @@ Programming to Non-Computer Scientists.” *Journal of Geography in Higher
 Education* 38 (2): 175–92.
 <https://doi.org/10.1080/03098265.2014.908275>.
 
-O’Sullivan, D., and S. M. Manson. 2015. “Do Physicists Have Geography
-Envy? And What Can Geographers Learn from It?” *Annals of the
-Association of American Geographers* 105 (4): 704–22.
-
 Quattrone, G., A. Greatorex, D. Quercia, L. Capra, and M. Musolesi.
 2018. “Analyzing and Predicting the Spatial Penetration of Airbnb in
 U.s. Cities.” *EPJ Data Science* 7 (31).
@@ -156,10 +171,6 @@ Airbnb?” In *Proceedings of the 25th International Conference on World
 Wide Web*, 1385–94. WWW ’16. Republic; Canton of Geneva, CHE:
 International World Wide Web Conferences Steering Committee.
 <https://doi.org/10.1145/2872427.2874815>.
-
-Scheider, Simon, Enkhbold Nyamsuren, Han Kruiger, and Haiqi Xu. n.d.
-“Why Geographic Data Science Is Not a Science.” *Geography Compass* n/a
-(n/a): e12537. <https://doi.org/10.1111/gec3.12537>.
 
 Shabrina, Z., E. Arcaute, and M. Batty. 2019. “Airbnb’s Disruption of
 the Housing Structure in London.” ArXiv Prepring. University College
@@ -173,9 +184,6 @@ Informality: The Rise of Peer-to-Peer (P2p) Renting.” CASA Working Paper
 Sthapit, Erose, and Peter Björk. 2019. “Sources of Distrust: Airbnb
 Guests’ Perspectives.” *Tourism Management Perspectives* 31: 245–53.
 <https://doi.org/https://doi.org/10.1016/j.tmp.2019.05.009>.
-
-Temperton, James. 2020. “Airbnb Has Devoured London – and Here’s the
-Data That Proves It.” Oneline; Wired UK. February 2020.
 
 Unwin, David. 1980. “Make Your Practicals Open-Ended.” *Journal of
 Geography in Higher Education* 4 (2): 39–42.
