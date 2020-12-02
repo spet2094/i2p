@@ -381,15 +381,15 @@ The practical can then be [downloaded from GitHub](https://github.com/jreades/i2
 
 The practical can then be downloaded from GitHub.
 
-# Week 9: Classifying Data 
+# Week 9: Dimensions in Data 
 
 ### Preparation
 
 #### Lectures
 
-- The Data Space
-- Transformations
-- Classifications 
+- Watch: The Data Space ([Notes](https://github.com/jreades/i2p/blob/master/lectures/9.1-Data_Space.md))
+- Watch: Transformation ([Notes](https://github.com/jreades/i2p/blob/master/lectures/9.2-Transformation.md))
+- Watch: Dimensionality ([Notes](https://github.com/jreades/i2p/blob/master/lectures/9.3-Dimensionality.md)) 
 
 #### Readings
 
@@ -422,8 +422,9 @@ The practical can then be downloaded from GitHub.
 
 #### Lectures
 
-- Dimensionality Reduction
-- Clustering 
+- Watch: Classification ([Notes]())
+- Watch: Clustering ([Notes]())
+- Watch: Wrap-Up ([Notes]())
 
 #### Readings
 
