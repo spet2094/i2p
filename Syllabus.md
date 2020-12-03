@@ -387,9 +387,9 @@ The practical can then be downloaded from GitHub.
 
 #### Lectures
 
-- Watch: The Data Space ([Notes](https://github.com/jreades/i2p/blob/master/lectures/9.1-Data_Space.md))
-- Watch: Transformation ([Notes](https://github.com/jreades/i2p/blob/master/lectures/9.2-Transformation.md))
-- Watch: Dimensionality ([Notes](https://github.com/jreades/i2p/blob/master/lectures/9.3-Dimensionality.md)) 
+- Watch: [The Data Space](https://web.microsoftstream.com/video/9c365da5-81b4-43f8-8296-16086f3f5887) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/9.1-Data_Space.md))
+- Watch: [Transformation](https://web.microsoftstream.com/video/070225ac-285b-4408-8c2a-35e223b79845) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/9.2-Transformation.md))
+- Watch: [Dimensionality](https://web.microsoftstream.com/video/9b47ffbb-de09-4538-bf84-66decfd1250b) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/9.3-Dimensionality.md)) 
 
 #### Readings
 
