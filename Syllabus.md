@@ -414,7 +414,7 @@ The practical can then be downloaded from GitHub.
 
 ### Practical
 
-The practical can then be downloaded from GitHub.
+The practical can then be [downloaded from GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-09-Classifying_Data.ipynb).
 
 # Week 10: Grouping Data 
 
