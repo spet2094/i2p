@@ -408,9 +408,9 @@ The practical can then be downloaded from GitHub.
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/26b0bbdd-f45a-4faf-89d7-8f8add7083cb))
+- Discussion of **Readings** (See above)
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/1d1d0952-a682-467e-acb7-aca81e9a8d8f))
 
 ### Practical
 
