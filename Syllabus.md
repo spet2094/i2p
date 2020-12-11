@@ -404,7 +404,7 @@ The practical can then be downloaded from GitHub.
 
 #### Quiz!
 
-- Complete the short Moodle quiz associated with this week's activities.
+- Complete the [short Moodle quiz](https://moodle.ucl.ac.uk/mod/quiz/view.php?id=2621322) associated with this week's activities.
 
 ### Workshop
 
@@ -422,13 +422,14 @@ The practical can then be [downloaded from GitHub](https://github.com/jreades/i2
 
 #### Lectures
 
-- Watch: Classification ([Notes]())
-- Watch: Clustering ([Notes]())
-- Watch: Wrap-Up ([Notes]())
+- Watch: [Classification](https://web.microsoftstream.com/video/1a88749d-2dca-4bc6-9990-3227a253bfb0) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/10.1-Classification.md)
+- Watch: [Clustering](https://web.microsoftstream.com/video/77b1ad5c-bece-4154-89b3-cb1e42877cae) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/10.2-Clustering.md))
 
 #### Readings
 
 - Shapiro, W. and Yavuz, M. (2017) Rethinking 'distance' in New York City Medium [URL](https://medium.com/topos-ai/rethinking-distance-in-new-york-city-d17212d24919)
+- Wolf, L. *et al.* (2020) Quantitative geography III: Future challenges and challenging futures, *Progress in Human Geography* [DOI](https://doi.org/10.1177%2F0309132520924722)
+- Arribas-Bel, D. and Singleton, A. (2019) Geographic Data Science, *Geographical Analysis* [DOI](https://doi.org/10.1111/gean.12194)
 
 
 #### Contribution
@@ -442,8 +443,7 @@ The practical can then be [downloaded from GitHub](https://github.com/jreades/i2
 ### Workshop
 
 - Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Discussion of **Readings** and **Reflections**
 
 ### Practical
 
