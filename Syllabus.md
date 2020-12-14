@@ -447,7 +447,7 @@ The practical can then be [downloaded from GitHub](https://github.com/jreades/i2
 
 ### Practical
 
-The practical can then be downloaded from GitHub.
+The practical can then be [downloaded from GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-10-Grouping_Data.ipynb).
 
 Bibliography
 ============
