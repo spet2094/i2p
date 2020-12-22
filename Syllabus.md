@@ -78,13 +78,14 @@ We'd recommend \#1 first as it will be useful to have 'virtualisation' enabled o
 
 ### Workshop
 
+
 - Poll Time! The password for all Padlets can be found on Moodle.
   - **Poll**: [Where in the world are you?](https://padlet.com/jreades1/o5xckdew9o6f5jay)
-  - **Poll**: [Hopes, fears, and expectations of this module?](https://padlet.com/jreades1/ve3t55wfw4rul8by)
+  - **Poll**: [Hopes, fears, and expectations of this module?](https://padlet.com/jreades1/ve3t55wfw4rul8by) ([Recording](https://web.microsoftstream.com/video/979f3dfb-57b1-40ad-9c08-3e21c29e2d2f))
 
-- 1.1: [Getting Oriented & Getting Help](https://github.com/jreades/i2p/blob/master/lectures/1.1-Getting_Oriented.md)
-- 1.2: [Tools of the Trade](https://github.com/jreades/i2p/blob/master/lectures/1.2-Tools_of_the_Trade.md)
-- 1.3: [Writing Code](https://github.com/jreades/i2p/blob/master/lectures/1.3-Writing_Code.md)
+- 1.1: [Getting Oriented & Getting Help](https://github.com/jreades/i2p/blob/master/lectures/1.1-Getting_Oriented.md) ([Recording](https://web.microsoftstream.com/video/553fcc7c-f361-45a8-bb20-69055d345a01))
+- 1.2: [Tools of the Trade](https://github.com/jreades/i2p/blob/master/lectures/1.2-Tools_of_the_Trade.md) ([Recording](https://web.microsoftstream.com/video/86991aba-0305-4cb5-bbb9-f89a5fbebe46))
+- 1.3: [Writing Code](https://github.com/jreades/i2p/blob/master/lectures/1.3-Writing_Code.md) ([Recording](https://web.microsoftstream.com/video/2713168e-47cf-4df6-8cf2-2e9059cc698a))
 
 ### Practical
 
@@ -142,12 +143,12 @@ As we're working in a 'flipped' environment, you should watch these videos *befo
 
 ### Workshop
 
-- Review of **Collaborative Agenda**
-- Discussion of **Readings**
+- Review of **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/a850dc75-cb3b-431c-a870-d9b4a4b7af29))
+- Discussion of **Readings** ([Recording](https://web.microsoftstream.com/video/fdc94583-2409-4bfe-9a30-eda34bc28398))
 
 - Geography and Computers ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.1-Computers_in_Planning_and_Geography.md))
 - Principles of Programming ([Notes](https://github.com/jreades/i2p/blob/master/lectures/2.2-Principles_of_Programming.md))
-- **Live Coding**
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/374b3c32-56db-42f4-8fc2-c1833a976dce))
 
 ### Practical
 
@@ -185,13 +186,13 @@ This week we start to move beyond [Code Camp](https://kingsgeocomputation.org/te
 
 #### Quiz!
 
-- Complete the short Moodle quiz associated with this week's activities.
+- Complete the [short Moodle quiz](https://moodle.ucl.ac.uk/mod/quiz/view.php?id=24300940) associated with this week's activities.
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Reviewing the **Collaborative Agenda** ([Recording Part 1](https://web.microsoftstream.com/video/024260b1-8c2d-4ffe-abc2-a9fe62630afd) and [Recording Part 2](https://web.microsoftstream.com/video/dd67f97f-4470-43be-b2a2-6b862ee80fc3))
+- Discussion of **Readings** ([Recording](https://web.microsoftstream.com/video/6220ab79-4a31-447a-9916-6cb7e3917453))
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/b5df930f-82ba-40a1-9d61-26174b58d2b3))
 
 ### Practical
 
@@ -203,13 +204,15 @@ The practical can then be downloaded from [GitHub](https://github.com/jreades/i2
 
 #### Lectures
 
-- Watch: [Logic]() ([Notes](https://github.com/jreades/i2p/blob/master/lectures/3.6-Logic.md))
-
-- 
+- Watch: [Methods](https://web.microsoftstream.com/video/d953bec3-667d-4330-88ca-07deb9c68c9a) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.1-Methods.md))
+- Watch: [Classes](https://web.microsoftstream.com/video/8727d485-199e-4f49-ab87-0848366a55ea) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.2-Classes.md))
+- Watch: [Design](https://web.microsoftstream.com/video/caade180-3e55-463c-a5b9-4572dd2cd2f3) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.3-Design.md))
+- Watch: [Exceptions](https://web.microsoftstream.com/video/ab802229-9eb2-46c3-8fa6-a6dec56a6828) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/4.4-Errors.md))
 
 #### Readings
 
-- 
+- [@Cox:2016] [PDF](http://insideairbnb.com/reports/how-airbnbs-data-hid-the-facts-in-new-york-city.pdf)
+- [@dignazio:2020, chap. 5] **Unicorns, Janitors, Ninjas, Wizards, and Rock Stars** [Pre-review Chapter URL](https://bookbook.pubpub.org/pub/fcshwhq6)
 
 #### Contribution
 
@@ -217,17 +220,17 @@ The practical can then be downloaded from [GitHub](https://github.com/jreades/i2
 
 #### Quiz!
 
-- Complete the short Moodle quiz associated with this week's activities.
+- Complete the [early feedback questionnaire](https://moodle.ucl.ac.uk/mod/questionnaire/view.php?id=2429914) please!
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/927265a6-a3c4-4855-b96e-834b3fd90a07))
+- Discussion of **Readings** (see Above)
+- **Live Coding** ([Part 2](https://web.microsoftstream.com/video/97baab26-6aad-43f5-a9f8-afb633b59d58); [Part 3](https://web.microsoftstream.com/video/2c593785-436d-4490-b591-b12379440ea5))
 
 ### Practical
 
-The practical can then be downloaded from GitHub.
+The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-04-Objects.ipynb).
 
 # Week 5: Numeric Data
 
@@ -235,29 +238,45 @@ The practical can then be downloaded from GitHub.
 
 #### Lectures
 
-- 
+- Watch: [Logic](https://web.microsoftstream.com/video/b9684684-5210-4917-8066-c7c247872051) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.1-Logic.md))
+- Watch: [Randomness](https://web.microsoftstream.com/video/18ee48e3-81d9-42d2-9e24-d434a9aa06ce) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.2-Randomness.md))
+- Watch: [Data Files](https://web.microsoftstream.com/video/465db9d5-fc82-42f7-ada4-089a01de1d7b) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.3-Files.md))
+- Watch: [Pandas](https://web.microsoftstream.com/video/ce84fd59-b44f-40cb-804b-593613053e24) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/5.4-Pandas.md))
 
 #### Readings
 
-- 
+- [@dignazio:2020, chap. 4] **What Gets Counted Counts** in *Data Feminism*; [Pre-review URL](https://bookbook.pubpub.org/pub/rykaknh1)
+- [@Wachsmuth:2018] [DOI](https://doi.org/10.1177%2F0308518X18778038)
+- [@Harris:2018] [URL](https://www.theguardian.com/commentisfree/2018/feb/12/profiteers-killing-airbnb-erode-communities)
 
 #### Contribution
 
 - Padlet: [Collaborative Agenda](https://padlet.com/jreades1/pg23spvbkfytbcnu)
 
-#### Quiz!
-
-- Complete the short Moodle quiz associated with this week's activities.
-
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Brief Discussion of **Assessments* ([Recording](https://web.microsoftstream.com/video/b2ccf725-3328-4acc-9f13-fe84f0fa8f4d))
+- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/3b0ebe4e-3407-4a41-a76b-6102fc89147b))
+- Discussion of **Readings** ([Recording](https://web.microsoftstream.com/video/3b0ebe4e-3407-4a41-a76b-6102fc89147b?st=822))
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/05870663-8cf2-464e-9932-e6e550077d0f))
 
 ### Practical
 
-The practical can then be downloaded from GitHub.
+The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-05-Numeric_Data.ipynb).
+
+# Reading Week
+
+You should be doing the readings that will support your answers to Assessment #2. And, looking ahead to the Final Assessment and where you might find ideas or literature to support your thinking, I'd suggest having a browse of the [Full Bibliography](https://github.com/jreades/i2p/blob/master/bib/Bibliography.md). This is a working document and I will add more items as and when I come across them or new works are published!
+
+### Readings
+
+In addition to looking for relevant content in [@dignazio:2020] ([URL](https://bookbook.pubpub.org/data-feminism)), you will also want to check consider:
+
+- [@Elwood:2017] [DOI](https://doi.org/10.1080/13658816.2017.1334892)
+- [@Elwood:2018] [DOI](https://doi.org/10.1080/0966369X.2018.1465396)
+- [@Bemt:2018] [DOI](https://doi.org/10.1080/03098265.2018.1436534)
+- [@Amoore:2019] [DOI](https://doi.org/10.1177%2F0263276419851846)
+- [@Crawford:2015] [DOI](https://doi.org/10.1007/s10708-014-9597-z)
 
 # Week 6: Spatial Data
 
@@ -265,11 +284,15 @@ The practical can then be downloaded from GitHub.
 
 #### Lectures
 
-- 
+- Watch: [Mapping](https://web.microsoftstream.com/video/74559a29-4214-4f79-8d41-06293ba1bade) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.1-Mapping.md))
+- Watch: [GeoPandas](https://web.microsoftstream.com/video/b79dab45-1390-40e9-b97b-ffd3c63e55d6) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.2-Geopandas.md))
+- Watch: [EDA](https://web.microsoftstream.com/video/bf4b47c4-2bbc-4989-a11c-cc3be529cef1) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.3-EDA.md))
+- Watch: [ESDA](https://web.microsoftstream.com/video/5c0a28b2-eb42-4ace-baed-a0fa9131aa4a) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/6.4-ESDA.md))
 
 #### Readings
 
-- 
+- [@dignazio:2020, chap. 6] **The Numbers Don't Speak for Themselves** in *Data Feminism*; [Pre-review URL](https://bookbook.pubpub.org/pub/6ui5n4vo)
+- [@Elwood:2017] [DOI](https://doi.org/10.1080/13658816.2017.1334892) 
 
 #### Contribution
 
@@ -277,17 +300,17 @@ The practical can then be downloaded from GitHub.
 
 #### Quiz!
 
-- Complete the short Moodle quiz associated with this week's activities.
+- Complete the [short Moodle quiz](https://moodle.ucl.ac.uk/mod/quiz/view.php?id=2532856) associated with this week's activities.
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/74a13a37-c319-4747-a695-2540b1d83d07))
+- Discussion of **Readings** (see [Collaborative Agenda](https://web.microsoftstream.com/video/74a13a37-c319-4747-a695-2540b1d83d07))
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/292b318e-223d-48dd-9e2e-efe33c1acb3d))
 
 ### Practical
 
-The practical can then be downloaded from GitHub.
+The practical can be [downloaded from GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-06-Spatial_Data.ipynb).
 
 # Week 7: Textual Data 
 
@@ -295,11 +318,16 @@ The practical can then be downloaded from GitHub.
 
 #### Lectures
 
-- 
+- Watch: [Notebooks as Documents](https://web.microsoftstream.com/video/fa80e0b3-a14a-44dd-b9b5-1774dde219ba) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.1-Notebooks_as_Documents.md))
+- Watch: [Patterns in Text](https://web.microsoftstream.com/video/9e419529-f1d7-40a9-94e3-3adf8c4608f6) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.2-Patterns_in_Text.md))
+- Watch: [Cleaning Text](https://web.microsoftstream.com/video/3a7ad210-31fb-4d15-8e33-3bea705042e2) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.3-Cleaning_Text.md))
+- Watch: [Analysing Text](https://web.microsoftstream.com/video/edcbccdd-15b9-49da-b84a-691b5cc41b88) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/7.4-Analysing_Text.md))
+
 
 #### Readings
 
-- 
+- [@Ladd:2020] [Web Page](https://programminghistorian.org/en/lessons/common-similarity-measures)
+- [@Lavin:2019] [Web Page](https://programminghistorian.org/en/lessons/analyzing-documents-with-tfidf)
 
 #### Contribution
 
@@ -307,17 +335,17 @@ The practical can then be downloaded from GitHub.
 
 #### Quiz!
 
-- Complete the short Moodle quiz associated with this week's activities.
+- Complete the [short Moodle quiz](https://moodle.ucl.ac.uk/mod/quiz/view.php?id=2555003) associated with this week's activities.
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/bc6c55dd-a34d-41bb-919b-a7f781570777))
+- Discussion of **Readings** (see above)
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/0bc57b29-6840-45e6-8cda-e7ec88acef5e))
 
 ### Practical
 
-The practical can then be downloaded from GitHub.
+The practical can then be [downloaded from GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-07-Textual_Data.ipynb).
 
 # Week 8: Visualising Data
 
@@ -325,11 +353,15 @@ The practical can then be downloaded from GitHub.
 
 #### Lectures
 
-- 
+- Watch: [Linking Data](https://web.microsoftstream.com/video/05759776-10b9-4476-9949-c7c0fbeef298) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/8.1-Linking_Data.md))
+- Watch: [Linking Spatial Data](https://web.microsoftstream.com/video/4bf27eaa-90d8-4628-81ba-e673816e691f) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/8.2-Linking_Spatial_Data.md))
+- Watch: [Grouping Data](https://web.microsoftstream.com/video/7f8df345-7339-466c-be60-a65be1ad6b57) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/8.3-Grouping_Data.md))
+- Watch: [Data Visualisation](https://web.microsoftstream.com/video/4cc8c5a2-5881-4342-adda-32b39a989d90) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/8.4-Visualising_Data.md))
 
 #### Readings
 
-- 
+- [@dignazio:2020, chap. 3] On Rational, Scientific, Objective Viewpoints from Mythical, Imaginary, Impossible Standpoints in Data Feminism; [Pre-review URL](https://bookbook.pubpub.org/pub/8tjbs2x5)
+- [@badger:2019]) Neighborhood Is Mostly Black. The Home Buyers Are Mostly White. [URL](https://www.nytimes.com/interactive/2019/04/27/upshot/diversity-housing-maps-raleigh-gentrification.html)
 
 #### Contribution
 
@@ -337,29 +369,34 @@ The practical can then be downloaded from GitHub.
 
 #### Quiz!
 
-- Complete the short Moodle quiz associated with this week's activities.
+- Complete the [short Moodle quiz](https://moodle.ucl.ac.uk/mod/quiz/view.php?id=2579101) associated with this week's activities.
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/01009be0-aada-45cc-b8b3-76a4c16f2ceb))
+- Discussion of **Readings** ([Recording](https://web.microsoftstream.com/video/f72532ef-e4ea-45cc-8532-8d895a398c3b))
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/6e5c59eb-5a79-445b-b636-90243a685221))
 
 ### Practical
 
 The practical can then be downloaded from GitHub.
 
-# Week 9: Classifying Data 
+# Week 9: Dimensions in Data 
 
 ### Preparation
 
 #### Lectures
 
-- 
+- Watch: [The Data Space](https://web.microsoftstream.com/video/9c365da5-81b4-43f8-8296-16086f3f5887) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/9.1-Data_Space.md))
+- Watch: [Transformation](https://web.microsoftstream.com/video/070225ac-285b-4408-8c2a-35e223b79845) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/9.2-Transformation.md))
+- Watch: [Dimensionality](https://web.microsoftstream.com/video/9b47ffbb-de09-4538-bf84-66decfd1250b) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/9.3-Dimensionality.md)) 
 
 #### Readings
 
-- 
+- [@Bunday:0000] A Final Tale or You Can Prove Anything with Figures [URL](https://www.ucl.ac.uk/~ucahhwi/AFinalTale.pdf)
+- [@Harris:2019] The Certain Uncertainty of University Rankings [URL](https://rpubs.com/profrichharris/uni-rankings)
+- [@Cima:2014] The Most and Least Diverse Cities in America, Priceonomics [URL](https://priceonomics.com/the-most-and-least-diverse-cities-in-america/) ([PDF with Figures](https://github.com/jreades/i2p/blob/master/docs/The_Least_Segregated_Cities_in_America.pdf))
+- [@lu:2013] Are statisticians cold-blooded bosses? a new perspective on the ‘old’ concept of statistical population [DOI](https://doi.org/10.1111/j.1467-9639.2012.00524.x)
 
 #### Contribution
 
@@ -367,29 +404,33 @@ The practical can then be downloaded from GitHub.
 
 #### Quiz!
 
-- Complete the short Moodle quiz associated with this week's activities.
+- Complete the [short Moodle quiz](https://moodle.ucl.ac.uk/mod/quiz/view.php?id=2621322) associated with this week's activities.
 
 ### Workshop
 
-- Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Reviewing the **Collaborative Agenda** ([Recording](https://web.microsoftstream.com/video/26b0bbdd-f45a-4faf-89d7-8f8add7083cb))
+- Discussion of **Readings** (See above)
+- **Live Coding** ([Recording](https://web.microsoftstream.com/video/1d1d0952-a682-467e-acb7-aca81e9a8d8f))
 
 ### Practical
 
-The practical can then be downloaded from GitHub.
+The practical can then be [downloaded from GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-09-Dimensions_in_Data.ipynb).
 
-# Week 10: Dimensionality and Clustering 
+# Week 10: Grouping Data 
 
 ### Preparation
 
 #### Lectures
 
-- 
+- Watch: [Classification](https://web.microsoftstream.com/video/1a88749d-2dca-4bc6-9990-3227a253bfb0) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/10.1-Classification.md)
+- Watch: [Clustering](https://web.microsoftstream.com/video/77b1ad5c-bece-4154-89b3-cb1e42877cae) ([Notes](https://github.com/jreades/i2p/blob/master/lectures/10.2-Clustering.md))
 
 #### Readings
 
-- 
+- Shapiro, W. and Yavuz, M. (2017) Rethinking 'distance' in New York City Medium [URL](https://medium.com/topos-ai/rethinking-distance-in-new-york-city-d17212d24919)
+- Wolf, L. *et al.* (2020) Quantitative geography III: Future challenges and challenging futures, *Progress in Human Geography* [DOI](https://doi.org/10.1177%2F0309132520924722)
+- Arribas-Bel, D. and Singleton, A. (2019) Geographic Data Science, *Geographical Analysis* [DOI](https://doi.org/10.1111/gean.12194)
+
 
 #### Contribution
 
@@ -402,12 +443,11 @@ The practical can then be downloaded from GitHub.
 ### Workshop
 
 - Reviewing the **Collaborative Agenda**
-- Discussion of **Readings**
-- **Live Coding**
+- Discussion of **Readings** and **Reflections**
 
 ### Practical
 
-The practical can then be downloaded from GitHub.
+The practical can then be [downloaded from GitHub](https://github.com/jreades/i2p/blob/master/practicals/Practical-10-Grouping_Data.ipynb).
 
 Bibliography
 ============
